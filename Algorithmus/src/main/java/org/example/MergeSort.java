@@ -1,6 +1,8 @@
 package org.example;
 
 import java.util.Arrays;
+//Написать самостоятельно сортировку слиянием.
+//Написать merge sort, которая будет сортировать массив в порядке убывания значения элементов.
 
 public class MergeSort {
     public static void main(String args[]) {
@@ -54,7 +56,7 @@ public class MergeSort {
 
         while (leftIndex < leftArrLength && rightIndex < rightArrLength) {
             if (leftArr[leftIndex] > rightArr[rightIndex]) { // сравниваем элемент в левом и правом подмассиве
-                arr[arrIndex] = leftArr[leftIndex]; // если условие верно, то элемент в левом меньше, сохраняем его
+                arr[arrIndex] = leftArr[leftIndex]; // если условие верно, то элемент в левом ,больше, сохраняем его
                 // в 0 ячейку основного массива
                 leftIndex++;
                 arrIndex++;
