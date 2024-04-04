@@ -1,2 +1,4 @@
-package taskOOP;public enum City {
+package taskOOP;
+
+public enum City {
 }

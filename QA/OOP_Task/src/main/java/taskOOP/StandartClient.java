@@ -1,2 +1,4 @@
-package taskOOP;public class StandartClient {
+package taskOOP;
+
+public class StandartClient extends Client{
 }

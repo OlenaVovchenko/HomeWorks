@@ -1,2 +1,5 @@
-package taskOOP;public interface humanResources {
+package taskOOP;
+
+public interface HumanResources {
+    public boolean needMedicalsurance();
 }

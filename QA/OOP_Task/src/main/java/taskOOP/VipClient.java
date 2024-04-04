@@ -1,2 +1,4 @@
-package taskOOP;public class VipClient {
+package taskOOP;
+
+public class VipClient extends Client{
 }

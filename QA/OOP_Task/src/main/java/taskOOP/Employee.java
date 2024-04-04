@@ -1,2 +1,4 @@
-package taskOOP;public class Employee {
+package taskOOP;
+
+public class Employee implements HumanResources{
 }

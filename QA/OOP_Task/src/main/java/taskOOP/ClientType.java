@@ -1,2 +1,4 @@
-package taskOOP;public enum ClientType {
+package taskOOP;
+
+public enum ClientType {
 }

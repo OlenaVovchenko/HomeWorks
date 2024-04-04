@@ -1,2 +1,4 @@
-package taskOOP;public class Client {
+package taskOOP;
+
+public class Client implements HumanResources {
 }
